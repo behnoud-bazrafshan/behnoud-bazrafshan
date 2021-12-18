@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Im Behnoud, and I'm finance student :chart_with_upwards_trend: who loves to code. :man_technologist:
 <!--
 **behnoud-bazrafshan/behnoud-bazrafshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
