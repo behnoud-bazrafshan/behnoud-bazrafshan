@@ -1,5 +1,5 @@
-### Hi there 👋
-**I'm Behnoud, a finance student :chart_with_upwards_trend::mortar_board: who likes to code.:man_technologist: I'm always learning and enjoy challenges. Currently, I'm super passionate about *FinTech*.**
+### Hi there, I'm Behnoud 👋
+A Finance student :mortar_board: who loves to code.:man_technologist: I'm always learning and enjoy challenges. Currently, I'm super passionate about *FinTech*.
 <!--
 **behnoud-bazrafshan/behnoud-bazrafshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
